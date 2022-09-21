@@ -1,7 +1,7 @@
 ---
 title: "Activity: Graphical Exploration"
-author: "YOUR NAME HERE"
-date: "Due Date: "
+  author: "YUAN CHEN"
+date: "09/21/2020"
 output: html_notebook
 ---
 
@@ -21,7 +21,10 @@ library(tidyverse)   # loads a group of useful packages including `ggplot2`
 
 
 ```
-
+Table Header  | Second Header
+------------- | -------------
+Table Cell    | Cell 2
+Cell 3        | Cell 4
 
 
 ### Explore the `diamonds` data
